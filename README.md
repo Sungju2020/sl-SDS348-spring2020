@@ -1,1 +1,2 @@
-Hi there! This is Sungju's the very first repository in Github. Yay!:)
+# Hi there! This is _Sungju_'s the very first repository in Github. 
+# Yay!:)

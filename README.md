@@ -1,1 +1,1 @@
-# sl-SDS348-spring2020
+Hi there! This is Sungju's the very first repository in Github. Yay!:)
